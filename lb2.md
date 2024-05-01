@@ -142,7 +142,7 @@ return 0;
 ```bash 
 
 git add hello_world.cpp
-git commit -m "hello_world.cpp without using namespace std;
+git commit -m "hello_world.cpp without using namespace std;"
 git push origin patch1
 
 ```
